@@ -1,7 +1,7 @@
-## Trustwave Password Changer ##
+## Trustwave Login Changer ##
 
 ### Summary ###
-Update the password for all apps in Trustwave.
+Change the login credentials for apps in Trustwave
 
 ### Requirements ###
 * Python 2.7
