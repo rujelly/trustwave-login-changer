@@ -1,7 +1,7 @@
 ## Trustwave Login Changer ##
 
 ### Summary ###
-Change the login credentials for apps in Trustwave
+Change the login credentials for apps in Trustwave App Scanner Enterprise
 
 ### Requirements ###
 * Python 2.7
